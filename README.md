@@ -3,6 +3,7 @@
 - 👩‍💻 I specialize in Open Source IP & security management and compliance
 - 👩‍💻 Currently, I am a Senior Director of Product Management at [Revenera](http://www.revenera.com) focusing on product strategy
 - 🔭 I’m currently working on software composition analysis (SCA) & SBOM management along with software & IoT monetization
+- 🔭 I also manage Revenera's Open Source Program Office (OSPO) and am part of Revenera's internal cybersecurity team
 - 👩‍💻 Formerly I worked at Palamida (SCA: 2006 to 2016) & Selectica (CPQ: 1999 to 2006)
 - 🌱 I earned an MBA from [San José State University](https://www.sjsu.edu) and a BSME from [UC Davis](https://www.ucdavis.edu/)
 - 🌱 I’m currently learning about leveraging AI for product management
