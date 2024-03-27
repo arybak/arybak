@@ -1,6 +1,6 @@
 ### WHOAMI 👋
 
-- 👩‍💻 I am an experienced technology professional specializing in Open Source IP & security management/compliance
+- 👩‍💻 I specialize in Open Source IP & security management and compliance
 - 👩‍💻 Currently, I am a Senior Director of Product Management at [Revenera](http://www.revenera.com) focusing on product strategy
 - 🔭 I’m currently working on software composition analysis (SCA) & SBOM management along with software & IoT monetization
 - 👩‍💻 Formerly I worked at Palamida (SCA: 2006 to 2016) & Selectica (CPQ: 1999 to 2006)
