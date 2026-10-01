@@ -1,12 +1,12 @@
 ### WHOAMI 👋
 
-- 👩‍💻 I specialize in Open Source IP (SCA/SBOMs) & security management and compliance.
+- 👩‍💻 I specialize in Open Source IP & Security Management/Compliance | SCA | OSPO | Open Chain | SBOM | SSCS | CRA
 - 👩‍💻 Currently, I am a Senior Director of Product Management at [Anchore](https://anchore.com).
-- 👩‍💻 Formerly, I worked as a Senior Director of Product Management at [Revenera](http://www.revenera.com) focusing on product strategy, software composition analysis (SCA) & SBOM management. I also managed Revenera's Open Source Program Office (OSPO) and was part of Revenera's internal cybersecurity team.
-- 👩‍💻 Prior to that I worked at Palamida (SCA: 2006 to 2016) & Selectica (CPQ: 1999 to 2006).
+- 👩‍💻 Formerly, I worked as a Senior Director of Product Management at [Revenera](http://www.revenera.com), focusing on product strategy, software composition analysis (SCA) & SBOM management. I also managed Revenera's Open Source Program Office (OSPO) and was part of Revenera's internal cybersecurity team.
+- 👩‍💻 Prior to that, I worked at Palamida (SCA: 2006 to 2016) & Selectica (CPQ: 1999 to 2006).
 - 🌱 I earned an MBA from [San José State University](https://www.sjsu.edu) and a BS Mechanical Engineering from [UC Davis](https://www.ucdavis.edu/).
-- 🌱 I’m currently learning about the deployment side of SCA.
-- 💬 Ask me about #SCA | #OpenSource | #OSPO | #SBOMs | #OpenChain | #SSCS | #CPQ.
+- 🌱 I’m currently learning about integrating AI into my daily PM work.
+- 💬 Ask me about #SCA | #OpenSource | #OSPO | #SBOMs | #OpenChain | #SSCS | #CRA | #CPQ.
 - 📢 [LinkedIn](https://www.linkedin.com/in/alexrybak) | [Twitter](https://twitter.com/arybak) | arybak@yahoo.com.
 - 😄 Pronouns: he/him.
 
